@@ -13,9 +13,9 @@
     <body>
         <div id="app">
         </div>
-        <div>
+        {{-- <div>
             Hello app lara
-        </div>
+        </div> --}}
     </body>
     <script src="{{mix('js/app.js')}}">
 
